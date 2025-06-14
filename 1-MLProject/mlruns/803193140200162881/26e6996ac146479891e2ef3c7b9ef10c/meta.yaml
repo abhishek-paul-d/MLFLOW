@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/803193140200162881/26e6996ac146479891e2ef3c7b9ef10c/artifacts
+end_time: 1749653120389
+entry_point_name: ''
+experiment_id: '803193140200162881'
+lifecycle_stage: active
+run_id: 26e6996ac146479891e2ef3c7b9ef10c
+run_name: popular-stoat-201
+run_uuid: 26e6996ac146479891e2ef3c7b9ef10c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749653116669
+status: 3
+tags: []
+user_id: user

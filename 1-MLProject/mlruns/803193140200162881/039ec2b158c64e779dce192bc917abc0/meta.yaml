@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/803193140200162881/039ec2b158c64e779dce192bc917abc0/artifacts
+end_time: 1749609853700
+entry_point_name: ''
+experiment_id: '803193140200162881'
+lifecycle_stage: active
+run_id: 039ec2b158c64e779dce192bc917abc0
+run_name: useful-lynx-514
+run_uuid: 039ec2b158c64e779dce192bc917abc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749609846733
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/803193140200162881/9fc5244c2e334b259b63aa089dc65b34/artifacts
+end_time: 1749609846535
+entry_point_name: ''
+experiment_id: '803193140200162881'
+lifecycle_stage: active
+run_id: 9fc5244c2e334b259b63aa089dc65b34
+run_name: judicious-ray-620
+run_uuid: 9fc5244c2e334b259b63aa089dc65b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749609832628
+status: 3
+tags: []
+user_id: user
