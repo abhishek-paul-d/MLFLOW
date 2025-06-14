@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/ML/MLFLOW/3-DLMLFLOW/mlruns/921295097855340963/afce1777012346f3bf035a3e2ed46fd6/artifacts
+end_time: 1749876463030
+entry_point_name: ''
+experiment_id: '921295097855340963'
+lifecycle_stage: active
+run_id: afce1777012346f3bf035a3e2ed46fd6
+run_name: whimsical-shrike-347
+run_uuid: afce1777012346f3bf035a3e2ed46fd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749876455061
+status: 3
+tags: []
+user_id: user

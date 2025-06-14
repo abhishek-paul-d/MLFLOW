@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/ML/MLFLOW/3-DLMLFLOW/mlruns/921295097855340963/5c4b90bbd31b41a584df63cfd75923eb/artifacts
+end_time: 1749876471925
+entry_point_name: ''
+experiment_id: '921295097855340963'
+lifecycle_stage: active
+run_id: 5c4b90bbd31b41a584df63cfd75923eb
+run_name: masked-fish-411
+run_uuid: 5c4b90bbd31b41a584df63cfd75923eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749876463051
+status: 3
+tags: []
+user_id: user

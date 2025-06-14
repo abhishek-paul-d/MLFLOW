@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/ML/MLFLOW/3-DLMLFLOW/mlruns/921295097855340963/b15923ce3a1d4d44a6f3f64939cded5d/artifacts
+end_time: 1749876479844
+entry_point_name: ''
+experiment_id: '921295097855340963'
+lifecycle_stage: active
+run_id: b15923ce3a1d4d44a6f3f64939cded5d
+run_name: spiffy-toad-204
+run_uuid: b15923ce3a1d4d44a6f3f64939cded5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749876437997
+status: 3
+tags: []
+user_id: user

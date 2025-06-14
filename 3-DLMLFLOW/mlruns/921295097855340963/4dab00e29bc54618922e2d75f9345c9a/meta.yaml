@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/ML/MLFLOW/3-DLMLFLOW/mlruns/921295097855340963/4dab00e29bc54618922e2d75f9345c9a/artifacts
+end_time: 1749876455020
+entry_point_name: ''
+experiment_id: '921295097855340963'
+lifecycle_stage: active
+run_id: 4dab00e29bc54618922e2d75f9345c9a
+run_name: masked-bat-29
+run_uuid: 4dab00e29bc54618922e2d75f9345c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749876447009
+status: 3
+tags: []
+user_id: user
